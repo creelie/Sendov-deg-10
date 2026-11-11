@@ -2,6 +2,8 @@
 
 Deep Bhattacharjee
 
+DOI: [10.5281/zenodo.24128090](https://doi.org/10.5281/zenodo.24128090)
+
 For a closed rectifiable curve of length L in R^d, the mean of the p-th power of antipodal chords |Γ(s+L/2)−Γ(s)| is maximised uniquely by the circle exactly when p ≤ 3. For p > 3 the circle is not a local maximiser. This corrects the threshold 5/2 stated in the literature.
 
 - `paper/` — LaTeX source, figure and PDF.
